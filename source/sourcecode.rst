@@ -7,7 +7,7 @@ GLPI source code management is handled by `GIT <https://en.wikipedia.org/wiki/Gi
 
 In order to contribute to the source code, you will have to know a few things about Git and the development model we follow.
 
-Branches
+Branches_test
 --------
 
 On the Git repository, you will  find several existing branches:
@@ -15,7 +15,7 @@ On the Git repository, you will  find several existing branches:
 * `master` contains the next major release source code,
 * `xx/bugfixes` contains the next minor release source code,
 * you should not care about all other branches that may exists, they should have been deleted right now.
-
+* `xx/bugfixes` contains the next minor release source code doi
 The `master` branch is where new features are added. This code is reputed as **non stable**.
 
 The `xx/bugfixes` branches is where bugs are fixed. This code is reputed as *stable*.
