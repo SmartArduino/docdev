@@ -1,7 +1,7 @@
 shenzhendoit.am
 ==========
 
-Some really usefull checklists, for development, releases, and so on!
+ESP32 is bluetooth+wifi
 
 .. toctree::
    :maxdepth: 2
